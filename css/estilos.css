@@ -5,7 +5,7 @@ body {
 #menu-principal{
 		padding: 10px 0px;
 }
-#menu-principal {
+#menu-principal a {
 	color: green;
 	text-decoration: none;
 }
