@@ -39,3 +39,6 @@ tbody tr:nth-child(odd) {
 tbody tr:nth-child(even):hover {
 	background: #DDD;
 }
+tbody tr:nth-child(odd):hover {
+	background: #DDF;
+}
