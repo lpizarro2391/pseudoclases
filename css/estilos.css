@@ -12,3 +12,7 @@ body {
 #menu-principal a:hover {
 	text-decoration: underline;
 }
+#menu-principal a + a::before {
+	content: " | ";
+	color: black;
+}
