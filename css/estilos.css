@@ -9,3 +9,6 @@ body {
 	color: green;
 	text-decoration: none;
 }
+#menu-principal a:hover {
+	text-decoration: underline;
+}
