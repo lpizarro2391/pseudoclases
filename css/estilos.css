@@ -29,3 +29,7 @@ table, th, td {
 	border: solid 1px black;
 	padding: 10px;
 }
+
+tbody tr:nth-child(even) {
+	background: #CCC;
+}
